@@ -1,0 +1,25 @@
+
+/* General Stuff */
+body {
+    color: white;
+    background-color: darkslategray;
+}
+a {
+    color: gray;
+    text-decoration: none;
+}
+
+/* Header stuff */
+
+/* Navbar on left */
+
+/* Image Features (Links) */
+
+/* Footer stuff */
+#bottom_banner {
+    background-color: black;
+    color: gray;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
